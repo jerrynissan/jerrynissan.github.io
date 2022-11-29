@@ -11,7 +11,8 @@ I am Jerry Nissan, Security Consultant. Has 5+ years of experience in Industry a
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
   <img src='https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-2.0-website-logo-300x90.png' height='30' width='auto' alt="Kali">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" alt="Linux" width="40" height="40"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg' alt="Linux" width="40" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt="Python" widht="40" height="40" alt=Python">
 </p>
 
 ---
