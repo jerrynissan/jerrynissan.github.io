@@ -7,12 +7,12 @@ I am Jerry Nissan, Security Consultant. Has 5+ years of experience in Industry a
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="Html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="CSS" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="Js">
   <img src='https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-2.0-website-logo-300x90.png' height='30' width='auto' alt="Kali">
-   <img src='https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg' alt="Linux" width="40" height="40"/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt="Python" widht="40" height="40" alt=Python">
+   <img src='https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg' width='40' height='40' alt="Linux">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' widht='40' height='40' alt=Python">
 </p>
 
 ---
